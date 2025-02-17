@@ -25,6 +25,13 @@ We implemented and tested **AlexNet, ResNet34, and VGGNet**, with **AlexNet achi
 
 ---
 
+## 🔮 Future Improvements  
+📌 **Improve Model Generalization** (use more diverse datasets).  
+📌 **Real-time Deployment** (integrate with OpenCV for live detection).  
+📌 **Mobile App Version** (use TensorFlow Lite for edge devices).  
+
+---
+
 ## 🛠️ How to Run  
 
 1️⃣ **Clone the repository**  
