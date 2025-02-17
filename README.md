@@ -1,25 +1,33 @@
 # 🚗 Driver Behavior Detection using Deep Learning  
 
 ## 📌 Project Overview  
-This project aims to detect and classify driver behaviors using deep learning models. The system categorizes driving activities into **five classes** based on image data:  
-- ✅ **Safe Driving**  
-- 📱 **Texting on the Phone**  
-- 📞 **Talking on the Phone**  
-- 🔄 **Turning**  
-- 🔀 **Other Activities**  
+This project detects and classifies driver behaviors using deep learning models. The system categorizes driving activities into five classes:  
+- ✅ Safe Driving  
+- 📱 Texting on the Phone  
+- 📞 Talking on the Phone  
+- 🔄 Turning  
+- 🔀 Other Activities  
 
-By leveraging **Convolutional Neural Networks (CNNs)**, we built and evaluated **AlexNet, ResNet34, and VGGNet** models to classify driver behaviors with high accuracy.
-
----
-
-## 🚀 Key Features  
-✅ **Multi-Class Classification:** Detects different driving behaviors using image data.  
-✅ **Deep Learning Architectures:** Implemented AlexNet, ResNet34, and VGGNet.  
-✅ **High Accuracy:** AlexNet performed the best with **98.1% validation accuracy**.  
-✅ **Image Processing & Data Augmentation:** Applied transformations for model robustness.  
-✅ **Potential Applications:** Can be integrated into **ADAS (Advanced Driver Assistance Systems)**, **fleet management**, and **insurance risk assessment**.
+We implemented and tested **AlexNet, ResNet34, and VGGNet**, with **AlexNet achieving the highest accuracy (98.1%)**.
 
 ---
 
- 
+## 📂 Project Files  
+- `Driver-Behaviour-Detection.ipynb` → Jupyter Notebook for model training and evaluation.  
+- `Presentation.pdf` → Project presentation.  
 
+---
+
+## 📊 Dataset  
+📥 **Download Dataset from Google Drive**:  
+[Download Here](https://drive.google.com/drive/folders/1wo7P1UWYuTe7S3e0Y_TbkHuV1RmRqyGm?usp=sharing)  
+  
+
+---
+
+## 🛠️ How to Run  
+
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/ArshadShaik04/Driver-Behavior-Detection-using-Deep-Learning.git
+cd Driver-Behavior-Detection-using-Deep-Learning
