@@ -36,5 +36,5 @@ We implemented and tested **AlexNet, ResNet34, and VGGNet**, with **AlexNet achi
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/ArshadShaik04/Driver-Behavior-Detection-using-Deep-Learning.git
+git clone https://github.com/YOUR_USERNAME/Driver-Behavior-Detection-using-Deep-Learning.git
 cd Driver-Behavior-Detection-using-Deep-Learning
